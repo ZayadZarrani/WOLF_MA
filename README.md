@@ -18,5 +18,4 @@ TO BYPASS BAN
 
 © 2019 INSTAGRAM.COM/ZAYADIZ
 
-------THE PHP CODE  WORK IN JUST IN DEVICE PC ---------------
-I WILL MAKE A UPDATE AFTER for the mobile ios & android
+schema for PHP WOLF_MA
