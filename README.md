@@ -18,4 +18,5 @@ TO BYPASS BAN
 
 © 2019 INSTAGRAM.COM/ZAYADIZ
 
-schema for PHP WOLF_MA
+schema for PHP WOLF_MA 
+![c](https://user-images.githubusercontent.com/59238489/71456920-f7db9b00-279b-11ea-8e02-cf1efabd1e23.png)
